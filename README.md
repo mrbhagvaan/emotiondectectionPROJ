@@ -36,7 +36,7 @@ This project takes a speech signal as input, converts it into numerical features
 ## 📂 Project Structure
 
 ```
-emotion-detection-speech/
+emotionproj/
 ├── training.ipynb   ← Main code
 ├── README.md                     ← You are here
 ├── tensorflow librosa scikit-learn matplotlib seaborn ipython  :Dependencies
@@ -49,8 +49,8 @@ emotion-detection-speech/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YourUsername/emotion-detection-speech.git
-cd emotion-detection-speech
+git clone https://github.com/mrbhagvaan/emotiondectectionPROJ.git
+cd emotionproj
 ```
 
 ### 2. Install dependencies
